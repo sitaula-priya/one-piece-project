@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {NavLink} from "react-router-dom";
 import web1 from "../src/images/oplogo.jpg";
-import web2 from "../src/images/image3.jpg";
+
 
 class Navbar extends Component {
     state = {  }
